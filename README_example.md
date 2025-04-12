@@ -4,7 +4,8 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclists sets itself apart by also offering reclining bikes, handtricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclists users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
+
 
 Insights and recommendations are provided on the following key areas:
 
