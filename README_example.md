@@ -4,21 +4,33 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclists sets itself apart by also offering reclining bikes, handtricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclists users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. The company has a significant amount of data on its clients' trips, marketing efforts, product offerings. The project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Lily Moreno's commercial success. 
 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
+- **Category 1:** Recos for marketing campaign
+- **Category 2:** Recos for pricing strategy
 - **Category 3:** 
-- **Category 4:** 
+- **Category 4:**
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+Recommendations:
+- Educate casual riders on the perks of memberships as a lack of knowledge can be the reason for the long usage by casual riders
+- An ad campaign at the popular start stations for casual riders can increase engagement or interest in memberships
+- A campaign to increase the usage by members especially in the less popular months could increase the number of trips. This campaign should provide benefits or rewards for continued usage with a focus on the less popular months.
 
-Targed SQL queries regarding various business questions can be found here [link].
+Recommendations 2:
+- Offer a weekend-only membership at a different price point than the full annual membership.
+- Coupons and discounts could be handed out along with the annual subscription / weekend-only membership for the usage of electric bikes targeting casual riders. Also increasing the number of electric bike while reducing classic bikes if electric bike costs more for the pass, this can be beneficial for the company. (As electric bike are already in trend and usage is good as per member and ride type data.
+- Create marketing campaigns which can be sent via email, or advertisement in the docking stations explaining why annual member is beneficial. Campaigns should be placed at the peak months of the year.
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+
+The SQL queries used to inspect and clean the data for this analysis can be found [here.](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/34c9359674a6806a3e6eab5cbbbd535032b41e54/Cyclistic%20Bike-Share%20Project/sql_cyclistic/sql_key_findings_cyclistic.docx)
+
+The R report can be found here
+
+The excel report can be found here
+
 
 
 
@@ -30,7 +42,7 @@ The companies main database structure as seen below consists of four tables: tab
 - **Table 4:**
 - **Table 5:**
 
-[Entity Relationship Diagram here]
+![Entity Relationship Diagram](Cyclistic Bike-Share Project/sql_cyclistic/ERD_cyclistic.png)
 
 
 
