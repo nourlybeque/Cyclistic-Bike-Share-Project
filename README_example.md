@@ -36,13 +36,9 @@ The excel report can be found here
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The company's main database structure as seen below consists of 12 similar tables joined with **UNION ALL**.
 
-![Entity Relationship Diagram](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/37616e801edb905edbc1c835465f6b9c559d3bce/Cyclistic%20Bike-Share%20Project/sql_cyclistic/ERD_cyclistic.png)
+![ERD](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/37616e801edb905edbc1c835465f6b9c559d3bce/Cyclistic%20Bike-Share%20Project/sql_cyclistic/ERD_cyclistic.png)
 
 
 
