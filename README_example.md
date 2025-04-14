@@ -42,7 +42,7 @@ The companies main database structure as seen below consists of four tables: tab
 - **Table 4:**
 - **Table 5:**
 
-![Entity Relationship Diagram](Cyclistic Bike-Share Project/sql_cyclistic/ERD_cyclistic.png)
+![Entity Relationship Diagram](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/37616e801edb905edbc1c835465f6b9c559d3bce/Cyclistic%20Bike-Share%20Project/sql_cyclistic/ERD_cyclistic.png)
 
 
 
