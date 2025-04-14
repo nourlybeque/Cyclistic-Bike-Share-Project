@@ -33,12 +33,13 @@ The excel report can be found here
 
 
 
-
 # Data Structure & Initial Checks
 
-The company's main database structure as seen below consists of 12 similar tables joined with **UNION ALL**.
+The company's main database structure as seen below consists of 12 similar tables (as for 12 months) joined with **UNION ALL** function.
 
 ![ERD](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/37616e801edb905edbc1c835465f6b9c559d3bce/Cyclistic%20Bike-Share%20Project/sql_cyclistic/ERD_cyclistic.png)
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/3b2642a0e4c54fc5a8a94f92a857ddb579f50d3c/Cyclistic%20Bike-Share%20Project/sql_cyclistic/1_Prepare_phase(Union_All_SQLquery).sql)
 
 
 
