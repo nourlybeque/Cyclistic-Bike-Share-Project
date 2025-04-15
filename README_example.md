@@ -1,19 +1,28 @@
 # Project Background
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. The company has a significant amount of data on its clients' trips, marketing efforts, product offerings. The project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Lily Moreno's commercial success. 
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. The company has a significant amount of data on its clients' trips, marketing efforts, product offerings. The project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve company's commercial success. 
 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** Recos for marketing campaign
-- **Category 2:** Recos for pricing strategy
-- **Category 3:** 
-- **Category 4:**
+📣 Marketing & Outreach
+- Promote membership benefits to casual riders who may be unaware of long-term advantages.
+- Run targeted ad campaigns at high-traffic casual rider stations to raise awareness and boost engagement.
+- Launch seasonal marketing campaigns focused on increasing member activity during less popular months, with incentives or rewards for continued use.
+
+🧩 Product & Membership Strategy
+- Introduce a weekend-only membership at a lower price point to attract occasional riders.
+- Provide coupons or discounts bundled with both annual and weekend-only memberships to encourage the use of electric bikes.
+
+🚲 Operations & Fleet Management
+- Increase the number of electric bikes and reduce classic bikes to match current usage trends and consumer preferences.
+- Leverage pricing strategies if electric bikes are more profitable, ensuring fleet allocation supports business goals.
+
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here.](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/34c9359674a6806a3e6eab5cbbbd535032b41e54/Cyclistic%20Bike-Share%20Project/sql_cyclistic/sql_key_findings_cyclistic.docx)
 
-The R report can be found here
+The worksheet with the pivot report that provides statistical analysis can be found [here.](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/7883c8bbb0bce3346259e3c0208c4f9edc7627fc/Cyclistic%20Bike-Share%20Project/excel_cyclistic/excel_pivot_cyclistic.xlsx)
 
-The excel report can be found here
+In addition, provided a complete analysis of R syntax can be found [here.](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/7883c8bbb0bce3346259e3c0208c4f9edc7627fc/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/rscripts_cyclistic.Rmd)
 
 
 
@@ -44,7 +53,7 @@ This could be possible that member use bikes for work purpose, this information 
 
 
 
-### How casual riders differs from annual membership riders?:
+### How casual riders differs from annual membership riders ? :
 
 - Members have the bigger volume of data, except on saturday and sunday. On the weekend, casuals riders have the most data points.
 - Casuals riders have more ride length (ride duration) than members. Average ride time of member are mostly same slight increase in end of week.
