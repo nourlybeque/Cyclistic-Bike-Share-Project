@@ -72,18 +72,8 @@ This could be possible that member use bikes for work purpose, this information 
 
 <p align="center">
   <img src="https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot9.jpeg" width="300"/>
-  <img src="https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot10.jpeg" width="300"/>
+  <img src="https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot10.jpeg" height="300"/>
 </p>
-
-
-Casual riders traffic
-![casual riders]()
-
-
-
-Annual membership riders traffic
-![membership riders]()
-
 
 
 
