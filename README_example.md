@@ -47,9 +47,15 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+- Members holds the biggest proportion of the total rides, ~30% bigger than casuals riders.
+- In all months we have more members than casual riders.
+- For casual riders the biggest volume of data is on the the weekend.
+- There is a bigger volume of bikers in the afternoon.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+This could be possible that member use bikes for work purpose, this information can be backed by their bike usage in colder months, where there is significant drop in casual members in those months.
+
+![diagram](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/3036dcc3d9ecb8109f9708b445bbd86bd0278f9e/Cyclistic%20Bike-Share%20Project/excel_cyclistic/diagram_cyclistic.png)
+
 
 
 
