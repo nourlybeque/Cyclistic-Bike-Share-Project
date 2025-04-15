@@ -59,18 +59,24 @@ This could be possible that member use bikes for work purpose, this information 
 
 
 
-# Insights Deep Dive
-### Category 1:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### How casual riders differs from annual membership riders?:
 
-[Visualization specific to category 1]
+- Members have the bigger volume of data, except on saturday and sunday. On the weekend, casuals riders have the most data points.
+- Casuals riders have more ride length (ride duration) than members. Average ride time of member are mostly same slight increase in end of week.
+- We have more members during the morning, mainly between 7am and 9am. And more casuals between 3pm and 2am. Actually this figure is applicable for both types of riders.
+- Members have a bigger preference for classic bikes, followed by electric bike.
+- Members have a more fixed use for bikes for routine activities. Where as casual rider's usage is different, mostly all activiy in the weekend.
+- Casual member spend time near the center of the city or the bay area, where as member are scattered throughout the city.
+
+Casual riders traffic
+![casual riders](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot9.jpeg)
+
+Annual membership riders traffic
+![membership riders](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot10.jpeg)
+
+
+
 
 
 ### Category 2:
