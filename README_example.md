@@ -69,8 +69,12 @@ This could be possible that member use bikes for work purpose, this information 
 - Members have a more fixed use for bikes for routine activities. Where as casual rider's usage is different, mostly all activiy in the weekend.
 - Casual member spend time near the center of the city or the bay area, where as member are scattered throughout the city.
 
+
+
 Casual riders traffic
 ![casual riders](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot9.jpeg)
+
+
 
 Annual membership riders traffic
 ![membership riders](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project/blob/4e0a7321e7b5510c655d73cd65e8440bf46ec271/Cyclistic%20Bike-Share%20Project/rstudio_cyclistic/Rplot10.jpeg)
